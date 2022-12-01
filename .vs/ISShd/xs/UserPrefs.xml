@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{68A9CEB1-973A-486F-ABBF-B50D5587C616}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ISShd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Application_Object.cs" Line="26" Column="7" />
+      <File FileName="Object_Management.cs" Line="28" Column="1" />
+      <File FileName="Astronaut.cs" Line="19" Column="1" />
+      <File FileName="Program.cs" Line="125" Column="86" />
+      <File FileName="ISSCoordinate.cs" Line="30" Column="34" />
+      <File FileName="EarthMap.cs" Line="61" Column="46" />
+      <File FileName="Button.cs" Line="32" Column="30" />
+      <File FileName="ClearButton.cs" Line="6" Column="26" />
+      <File FileName="DataButton.cs" Line="7" Column="117" />
+      <File FileName="DataTracker.cs" Line="14" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ISShd" expanded="True">
+            <Node name="ISShd" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
